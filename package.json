@@ -1,10 +1,10 @@
 {
-  "name": "noviadi",
+  "name": "adeyahya",
   "version": "1.1.0",
-  "description": "Personal card for Noviadi Hapsoro",
+  "description": "Personal card for Ade Yahya Prasetyo",
   "main": "/bin/card.js",
   "bin": {
-    "noviadi": "./bin/card.js"
+    "adeyahya": "./bin/card.js"
   },
   "scripts": {
     "prepublish": "npm run build",
@@ -15,9 +15,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/noviadi/card.git"
+    "url": "git+https://github.com/adeyahya/card.git"
   },
   "keywords": [
+    "ade",
+    "yahya",
+    "adeyahya",
     "card",
     "npm",
     "npm",
@@ -28,12 +31,12 @@
     "business",
     "card"
   ],
-  "author": "Noviadi Hapsoro <noviadi.mobile@gmail.com> (https://noviadi.github.io)",
+  "author": "Ade Yahya <adeyahyaprasetyo@gmail.com> (https://www.ihavemind.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/noviadi/card/issues"
+    "url": "https://github.com/adeyahya/card/issues"
   },
-  "homepage": "https://noviadi.github.io",
+  "homepage": "https://www.ihavemind.com",
   "devDependencies": {
     "boxen": "^4.2.0",
     "chalk": "^3.0.0",
