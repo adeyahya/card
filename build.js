@@ -19,14 +19,14 @@ const scheme = {
 };
 
 const data = {
-  name: scheme.primary.bold('                  Noviadi Hapsoro'),
+  name: scheme.primary.bold('                  Ade Yahya Prasetyo'),
   work: scheme.light('Software Engineer'),
-  twitter: scheme.shade('https://twitter.com/') + scheme.secondary('nobitasama'),
-  npm: scheme.shade('https://npmjs.com/') + scheme.secondary('~noviadi'),
-  github: scheme.shade('https://github.com/') + scheme.secondary('noviadi'),
-  linkedin: scheme.shade('https://linkedin.com/in/') + scheme.secondary('noviadihapsoro'),
-  web: scheme.secondary('https://noviadi.github.io'),
-  npx: scheme.shade('npx ') + scheme.secondary('noviadi'),
+  twitter: scheme.shade('https://twitter.com/') + scheme.secondary('adeyahya'),
+  npm: scheme.shade('https://npmjs.com/') + scheme.secondary('~adeyahya'),
+  github: scheme.shade('https://github.com/') + scheme.secondary('adeyahya'),
+  linkedin: scheme.shade('https://linkedin.com/in/') + scheme.secondary('adeyahya'),
+  web: scheme.secondary('https://www.ihavemind.com'),
+  npx: scheme.shade('npx ') + scheme.secondary('adeyahya'),
   labelWork: scheme.light.bold('       Work:'),
   labelTwitter: scheme.light.bold('    Twitter:'),
   labelnpm: scheme.light.bold('        npm:'),
